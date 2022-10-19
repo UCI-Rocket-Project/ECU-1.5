@@ -1,0 +1,20 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 08c069ec-f7a0-4ffa-b203-8c67d8ec2fde)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "UCI Rocket Project Engine Control Unit\nv1.5 \"Orion\""
+    (at 177.8 170.18 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 67c2fd09-a114-4648-99b1-161fa0e785fd)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
