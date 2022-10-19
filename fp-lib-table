@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "teensylib")(type "KiCad")(uri "${KIPRJMOD}/teensylib")(options "")(descr ""))
+)
